@@ -1,0 +1,14 @@
+D:\ErrasoftBackend\sessions\session2_online\function\bin\Debug\net8.0\function.exe
+D:\ErrasoftBackend\sessions\session2_online\function\bin\Debug\net8.0\function.deps.json
+D:\ErrasoftBackend\sessions\session2_online\function\bin\Debug\net8.0\function.runtimeconfig.json
+D:\ErrasoftBackend\sessions\session2_online\function\bin\Debug\net8.0\function.dll
+D:\ErrasoftBackend\sessions\session2_online\function\bin\Debug\net8.0\function.pdb
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\function.GeneratedMSBuildEditorConfig.editorconfig
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\function.AssemblyInfoInputs.cache
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\function.AssemblyInfo.cs
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\function.csproj.CoreCompileInputs.cache
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\function.dll
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\refint\function.dll
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\function.pdb
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\function.genruntimeconfig.cache
+D:\ErrasoftBackend\sessions\session2_online\function\obj\Debug\net8.0\ref\function.dll
